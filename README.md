@@ -6,6 +6,8 @@
 2. Set up a password when prompted(need to use later)
 3. Install properly
 4. Check if PostgreSQL service is running (needs to run)
+5. Go to pgAdmin 4 and connect using previous password
+6. Create a database named "miniorm"
 
 
 ## 2) Set `MINIORM_CONN` Environment Variable
