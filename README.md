@@ -1,4 +1,4 @@
-# Mini ORM Assignment 
+# Mini ORM 
 
 ## 1) PostgreSQL Setup
 
